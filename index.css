@@ -119,15 +119,24 @@ body {
     height: 100%;
     padding: 0% 5% 1% 5%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
-    align-items: center;
+}
+
+#click-download a {
+    width: 100%;
+    /* background-color: red; */
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 1.5rem;
+    cursor: pointer;
 }
 
 
-button {
+#click-download a button {
     width: 100%;
-    margin: 0.5%;
+    margin: 0 auto;
     height: 100%;
     padding: 1rem;
     font-size: 0.6rem;
@@ -139,7 +148,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+#click-download a button:hover {
     background-color: #000;
     color: #fff;
 }
@@ -153,7 +162,6 @@ button:hover {
     #left {
         width: 100%;
         height: 80vh;
-        background-color: blue;
     }
 
     #greeting {
@@ -166,5 +174,9 @@ button:hover {
 
     .large-greeter {
         font-size: 4rem;
+    }
+
+    #click-download {
+        flex-direction: column;
     }
 }
