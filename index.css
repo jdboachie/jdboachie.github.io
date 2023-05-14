@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+    font-family: 'IBM Plex Serif', monospace;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+}
+
+#main {
+    margin: 8 auto;
+    padding: 5% auto;
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 5vh;
+    text-align: center;
+}
+
+#copyright-etc {
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 10px;
+}
+
+#copyright-etc i {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#social-media {
+    display: flex;
+    position: fixed;
+    bottom: 5.5vh;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 5vh;
+    text-align: right;
+}
+
+#social-media li {
+    list-style: none;
+    font-size: 1.4rem;
+    margin-left: 1%;
+    cursor: pointer;
+}
+
+#social-media li:hover {
+    color: #fff;
+}
+
+#social-media-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#left {
+    width: 50%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.large-greeter {
+    font-size: 7rem;
+}
+
+#greeting {
+    width: 100%;
+    height: 75%;
+    margin-top: 15%;
+    margin-bottom: 4%;
+    padding: 0% 0% 0% 5%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: 2.5rem;
+    justify-content: center;
+    align-items: left;
+}
+
+#description {
+    width: 100%;
+    height: 100%;
+    padding: 0% 5% 1% 5%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: 0.75rem;
+    justify-content: center;
+    align-items: left;
+}
+
+#click-download {
+    width: 100%;
+    height: 100%;
+    padding: 0% 5% 1% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button {
+    width: 100%;
+    margin: 0.5%;
+    height: 100%;
+    padding: 1rem;
+    font-size: 0.6rem;
+    font-weight: bold;
+    color: black;
+    border: 1px solid #3f3f3f;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    #main {
+        flex-direction: column;
+        height: 100%;
+    }
+
+    #left {
+        width: 100%;
+        height: 80vh;
+        background-color: blue;
+    }
+
+    #greeting {
+        text-align: center;
+    }
+    
+    #description p {
+        text-align: center;
+    }
+
+    .large-greeter {
+        font-size: 4rem;
+    }
+}
