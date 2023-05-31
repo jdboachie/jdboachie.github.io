@@ -1,4 +1,4 @@
-<img src="jude.jpg" alt="Jude Boachie" style="width: 200px; border-radius: 50%;">
+<img src="jude.jpg" alt="Jude Boachie" style="width: 200px; border-radius: 50%; margin-left: 30%; margin-right: 30%;">
 
 
 # About Jude Boachie
