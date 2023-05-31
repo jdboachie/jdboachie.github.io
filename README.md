@@ -1,6 +1,6 @@
 ## 😌   About Me
 
-I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineering at Kwame Nkrumah University of Science and Technology in Kumasi, Ghana. With a passion for technology and a drive to excel, I'm focused on expanding his knowledge and skills in various areas of computer science and engineering.
+I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineering at Kwame Nkrumah University of Science and Technology in Kumasi, Ghana. With a passion for technology and a drive to excel, I'm focused on expanding my knowledge and skills in various areas of computer science and engineering.
 
 ## 🎒   Education
 
