@@ -1,17 +1,15 @@
-# Hi, I'm Jude. 😁
-
-## About Me
+## 😌   About Me
 
 I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineering at Kwame Nkrumah University of Science and Technology in Kumasi, Ghana. With a passion for technology and a drive to excel, I'm focused on expanding his knowledge and skills in various areas of computer science and engineering.
 
-## Education
+## 🎒   Education
 
 - **Kwame Nkrumah University of Science and Technology** - Kumasi, Ghana
   - *Graduating Dec 2025*
   - Major: Bsc. Computer Engineering
   - Relevant Coursework: Linear Algebra, Calculus, Differential Equations, Programming and Problem Solving, Discrete Structures, Object Oriented Programming in C++, Digital Systems, Circuit Theory, MATLAB
 
-## Certifications
+## 🎓   Certifications
 
 - Udacity
   - AWS Machine Learning Engineer Nanodegree (Mar 2023)
@@ -25,7 +23,7 @@ I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineerin
   - Introduction to AI ethics (Apr 2022)
   - Data Visualization (Apr 2022)
 
-## Professional Experience
+## 🏢   Professional Experience
 
 - **SIC INSURANCE PLC** - Accra, Ghana
   - *Oct - Nov, 2022*
@@ -33,7 +31,7 @@ I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineerin
   - Responsibilities:
     - Hardware, software, and administrative troubleshooting services.
 
-## Projects
+## 👷🏿   Projects
 
 - Dog Breed Classification
   - Produced a model that classifies dog images into 133 breeds.
@@ -42,18 +40,18 @@ I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineerin
 - Inventory Monitoring at Distribution Centres
   - Produced a model that can count the number of items in bins at distribution centers.
 
-## Skills and Interests
+## 🤹🏿   Skills and Interests
 
 - Programming Languages: Python, C/C++, Javascript, Bash, HTML/CSS
 - Technologies: AWS, SQL, Hugging Face, Google Colabs
 
-## Leadership and Volunteer Experience
+## 🤝🏿   Leadership and Volunteer Experience
 
 - IEEE-IMS Design Challenge, Participant, Kwame Nkrumah University of Science and Technology (July 2022)
 - National Society of Black Engineers, Pre-collegiate Initiative Committee Chair, Kwame Nkrumah University of Science and Technology (August 2022-Present)
 
-## Contact Information
+## 📞   Contact Information
 
 - Email: <judeboachiekwame@gmail.com>
-- LinkedIn: [judeboachie](https://linkedin.com/in/judeboachie)
-- GitHub: [jdboachie](https://github.com/jdboachie)
+- [Linkedin](https://linkedin.com/in/judeboachie)
+- [GitHub](https://github.com/jdboachie)
