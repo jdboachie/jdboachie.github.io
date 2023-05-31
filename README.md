@@ -1,9 +1,8 @@
-<img src="jude.jpg" alt="Jude Boachie" style="width: 200px; border-radius: 50%; margin-left: 30%; margin-right: 30%;">
+# Hi, I'm Jude. 😁
 
+## About Me
 
-# About Jude Boachie
-
-Jude Boachie is a dedicated and ambitious individual pursuing a BSc. in Computer Engineering at Kwame Nkrumah University of Science and Technology in Kumasi, Ghana. With a passion for technology and a drive to excel, Jude is focused on expanding his knowledge and skills in various areas of computer science.
+I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineering at Kwame Nkrumah University of Science and Technology in Kumasi, Ghana. With a passion for technology and a drive to excel, I'm focused on expanding his knowledge and skills in various areas of computer science and engineering.
 
 ## Education
 
