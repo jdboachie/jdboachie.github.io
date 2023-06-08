@@ -12,22 +12,16 @@ I am a dedicated and ambitious individual pursuing a BSc. in Computer Engineerin
 ## 🎓   **Certifications**
 
 - **Udacity**
-  ```
   - AWS Machine Learning Engineer Nanodegree (Mar 2023)
-  ```
 - **FreecodeCamp**
-  ```
   - Data Analysis with Python - freecodecamp (Apr 2023)
   - Scientific Computing with Python - freecodecamp (Nov 2022)
-  ```
 - **Kaggle**
-  ```
   - Computer Vision (Mar 2023)
   - Intro to Deep Learning (Mar 2023)
   - Intermediate Machine Learning (Aug 2022)
   - Introduction to AI ethics (Apr 2022)
   - Data Visualization (Apr 2022)
-  ```
 
 ## 🏢   Professional Experience
 
